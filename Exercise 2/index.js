@@ -19,7 +19,7 @@ const developer = true;
 const birthDate = new Date(1991, 8, 3);
 const favoriteBook = {
     Titulo : "El Club de las 5 de la mañana",
-    Author : "Robin Sharma",
+    Autor : "Robin Sharma",
     Fecha : new Date(2018, 11, 5),
     Url : "https://www.amazon.com/-/es/Robin-Sharma/dp/1949061671"
 };
