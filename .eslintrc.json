@@ -1,0 +1,19 @@
+{
+    "env": {
+        "browser": true,
+        "es2021": true
+    },
+    "extends": "eslint:recommended",
+    "overrides": [
+    ],
+    "parserOptions": {
+        "ecmaVersion": "latest",
+        "sourceType": "module"
+    },
+    "rules": {
+"eqeqeq": "warn",
+"strict": "off",
+"quotes": ["error", "double"], //dará error cuando usemos dobles
+"semi": ["error", "never"] //dará error cuando usemos semicolons
+    }
+}
