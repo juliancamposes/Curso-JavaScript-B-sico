@@ -1,0 +1,10 @@
+Integrar un mapa en nuestra web a través de la API de Google Maps
+Y la geolocalizacion de un negocio etc
+Y geolocalizar a un usuario a través de la api del navegador
+
+Investigar si lo queremos usar:
+
+https://developers.google.com/maps/documentation/javascript/overview
+
+Acceder a la geolocalizacion del navegador
+navigator.geolocation.watchPosition nos da la altitud y latitud
